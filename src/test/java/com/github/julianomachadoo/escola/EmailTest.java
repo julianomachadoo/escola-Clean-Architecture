@@ -17,4 +17,11 @@ class EmailTest {
         assertThrows(IllegalArgumentException.class,
                 () -> new Email("emailInvalido"));
     }
+
+    @Test
+    void deveriaCriarEmailComEnderecoValido() {
+        Email email = new Email("aluno@email.com");
+
+        assertNotNull(email);
+    }
 }
