@@ -1,5 +1,6 @@
 package com.github.julianomachadoo.escola;
 
+import com.github.julianomachadoo.escola.dominio.aluno.Telefone;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package com.github.julianomachadoo.escola;
+package com.github.julianomachadoo.escola.dominio.aluno;
 
 public class Email {
 

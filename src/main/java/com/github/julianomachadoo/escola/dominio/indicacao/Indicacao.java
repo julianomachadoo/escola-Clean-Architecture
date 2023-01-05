@@ -1,4 +1,6 @@
-package com.github.julianomachadoo.escola;
+package com.github.julianomachadoo.escola.dominio.indicacao;
+
+import com.github.julianomachadoo.escola.dominio.aluno.Aluno;
 
 import java.time.LocalDateTime;
 

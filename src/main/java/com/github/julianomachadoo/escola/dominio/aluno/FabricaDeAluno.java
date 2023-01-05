@@ -1,4 +1,4 @@
-package com.github.julianomachadoo.escola;
+package com.github.julianomachadoo.escola.dominio.aluno;
 
 import java.util.ArrayList;
 import java.util.List;
