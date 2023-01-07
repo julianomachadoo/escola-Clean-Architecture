@@ -1,4 +1,4 @@
-package com.github.julianomachadoo.escola.dominio.indicacao;
+package com.github.julianomachadoo.escola.aplicacao.indicacao;
 
 import com.github.julianomachadoo.escola.dominio.aluno.Aluno;
 
