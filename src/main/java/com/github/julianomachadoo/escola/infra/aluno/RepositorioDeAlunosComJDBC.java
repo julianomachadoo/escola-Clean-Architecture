@@ -1,4 +1,4 @@
-package com.github.julianomachadoo.escola.dominio.infra.aluno;
+package com.github.julianomachadoo.escola.infra.aluno;
 
 import com.github.julianomachadoo.escola.dominio.aluno.*;
 
